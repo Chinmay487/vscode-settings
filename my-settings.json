@@ -1,0 +1,55 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.mouseWheelZoom": true,
+    "editor.stickyTabStops": true,
+    "telemetry.telemetryLevel": "off",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.enableExperiments": false,
+    "workbench.iconTheme": "vscode-icons",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        // "editor.codeActionsOnSave": {
+        //     "source.fixAll": true
+        // }
+    },
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "editor.stickyScroll.enabled": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "php"
+    ],
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "terminal.background": "#000000",
+        "focusBorder":"#9dff0081",
+        "sideBar.background": "#000",
+        "sideBar.border": "#9dff008c",
+        "activityBar.background": "#000000",
+        "activityBar.activeBackground": "#00000f",
+        "activityBarBadge.activeBackground": "#ff0000",
+        "activityBar.activeFocusBorder": "#9dff00",
+        "activityBar.activeBorder": "#9dff00",
+        "tab.activeBackground": "#181616",
+        "tab.inactiveBackground": "#000000",
+    },
+}
