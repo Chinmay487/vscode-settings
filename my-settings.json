@@ -51,5 +51,6 @@
         "activityBar.activeBorder": "#9dff00",
         "tab.activeBackground": "#181616",
         "tab.inactiveBackground": "#000000",
+        "tab.activeBorderTop": "#9dff00",
     },
 }
